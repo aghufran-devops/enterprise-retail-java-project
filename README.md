@@ -1,2 +1,2 @@
-# enterprise-retail-java-project
-Enterprise Java project for retail company
+# abctechnologies code
+"# assignment1" 
